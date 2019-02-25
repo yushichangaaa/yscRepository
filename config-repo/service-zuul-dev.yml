@@ -1,8 +1,0 @@
-zuul:
-  routes:
-    item-service: 
-      path: /item-service/**
-      service-id: app-item
-    order-service: 
-      path: /order-service/**
-      service-id: app-order
